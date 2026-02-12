@@ -3,7 +3,7 @@
 - 🎓 Bacharel em Engenharia de Computação pelo IFPB – Campus Campina Grande
 - 🤖 Atualmente estudando automação de processos utilizando IA
 
----
+
 
 ## 🛠️ Tecnologias
 <img 
@@ -80,9 +80,8 @@
 
 <br/><br/> 
 
----
+
 
 ## 📫 Contato
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardonog.alves@gmail.com)
-
 
